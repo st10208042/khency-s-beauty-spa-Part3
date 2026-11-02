@@ -6,7 +6,7 @@
 **Subject:** WEDE5020POE  
 **Project:** Part 3 – JavaScript Functionality and Website Enhancements
 
-## Part 2 Requirements Implemented
+## Part 3 Requirements Implemented
 - All five pages use the shared external `css/style.css`.
 - CSS reset, consistent colour scheme, typography, spacing, borders and shadows.
 - Typography using `font-family`, `font-size`, `font-weight`, `line-height` and `letter-spacing`.
@@ -19,6 +19,12 @@
 - Responsive images using `srcset` and `sizes`.
 - `<picture>` support for the logo.
 - Semantic and accessibility improvements including labels, `alt` text, `aria-current` and iframe titles.
+- JavaScript-powered service search and filtering.
+- Interactive image lightbox gallery.
+- FAQ accordion for frequently asked questions.
+- Interactive location maps.
+- Improved SEO using page-specific titles and meta descriptions.
+- Tested JavaScript functionality across the website.
 
 ## Website Pages
 1. Home – `index.html`
