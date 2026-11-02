@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://st10208042.github.io/khency-s-beauty-spa-Part3/sitemap.xml
