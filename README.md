@@ -4,7 +4,7 @@
 **Student Name:** Khensane Sibande  
 **Student Number:** ST10208042  
 **Subject:** WEDE5020POE  
-**Project:** Part 2 – CSS Styling and Responsive Design
+**Project:** Part 3 – JavaScript Functionality and Website Enhancements
 
 ## Part 2 Requirements Implemented
 - All five pages use the shared external `css/style.css`.
