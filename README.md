@@ -25,6 +25,9 @@
 - Interactive location maps.
 - Improved SEO using page-specific titles and meta descriptions.
 - Tested JavaScript functionality across the website.
+- Added robots.txt to guide search engine crawlers.
+- Created sitemap.xml containing all five website pages.
+- Improved SEO by adding meta-keywords and search engine metadata.
 
 ## Website Pages
 1. Home – `index.html`
@@ -43,6 +46,7 @@
 - Added interactive location maps.
 - Improved SEO with page-specific titles and meta descriptions.
 - Updated and tested interactive website features.
+- Added robots.txt and sitemap.xml for SEO improvements.
 
 ### Version 2.0 – Part 2
 - Redesigned the website with a professional beauty-spa visual identity.
